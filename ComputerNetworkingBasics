@@ -28,13 +28,3 @@ IPv4: Uses a 32-bit addressing system, allowing for approximately 4.3 billion un
 IPv6: Uses a 128-bit addressing system, providing a significantly larger number of available IP addresses.
 IP addresses can also be categorized as dynamic or static, depending on whether they change over time or remain constant for a device.
 
-OSI Model
-The Open Systems Interconnection (OSI) model is a conceptual framework used to understand and describe how different network protocols interact. It divides networking functions into seven distinct layers:
-
-Physical Layer: Deals with the physical connection between devices, including cabling and hardware.
-Data Link Layer: Handles the communication between adjacent devices on the same network.
-Network Layer: Identifies the best route for data packets and manages IP addresses.
-Transport Layer: Ensures the reliable transmission of data, including error checking and flow control.
-Session Layer: Establishes, maintains, and terminates connections between applications on different devices.
-Presentation Layer: Translates data into a format that is suitable for transmission between devices.
-Application Layer: Represents the user interface with which applications interact.
